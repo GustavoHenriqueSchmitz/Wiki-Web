@@ -8,6 +8,14 @@ It's important to note that the project is unfinished, it was more of a "test pr
 - HTML
 - CSS
 
+## Installation
+**1 -** Clone the project:
+```
+https://github.com/GustavoHenriqueSchmitz/Wiki-Web.git
+```
+
+**2 -** Run the `index.html` file, you can use the live server VsCode extension.
+
 ## Author
 **Gustavo Henrique Schmitz**
 
